@@ -15,5 +15,5 @@ We are trying to create an application that can detect traditional house types u
 |M355BSY1807|Hosea Verico Dwi K|Machine Learning|Universitas Muria Kudus|https://www.linkedin.com/in/hosea-kristianto-a73a88287/|
 |A128BSY1965|M. Atsil Rifqi Riyansyah|Mobile Development|Politeknik Negeri Jakarta|https://www.linkedin.com/in/riyanatsil/|
 |A204BSY2888|Richard Leonardo|Mobile Development|Universitas Esa Unggul|https://www.linkedin.com/in/richard-leonardo-2bb446293/|
-|C128BSY3290|Shoffan Darul Mufti|Machine Learning|Politeknik Negeri Jakarta|https://www.linkedin.com/in/shoffanda/|
-|C102BSY3325|Jonathan Christian|Machine Learning|Institut Bisnis dan Informatika Kwik Kian Gie|https://www.linkedin.com/in/jonathan-christian-7b2009272/|
+|C128BSY3290|Shoffan Darul Mufti|Cloud Computing|Politeknik Negeri Jakarta|https://www.linkedin.com/in/shoffanda/|
+|C102BSY3325|Jonathan Christian|Cloud Computing|Institut Bisnis dan Informatika Kwik Kian Gie|https://www.linkedin.com/in/jonathan-christian-7b2009272/|
